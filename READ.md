@@ -9,3 +9,11 @@
 
 ## Summary
 This is a summary of [Mythily's](https://github.com/mmythily) notes for the LHL Bootcamp
+
+### Table of Contents
+* Week 1
+  * Day 1
+
+1. ItemOne
+2. ItemTwo
+3. Item3
