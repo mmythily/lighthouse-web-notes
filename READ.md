@@ -11,8 +11,8 @@
 This is a summary of [Mythily's](https://github.com/mmythily) notes for the LHL Bootcamp
 
 ### Table of Contents
-* Week 1
-  * Day 1
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
 
 1. ItemOne
 2. ItemTwo
